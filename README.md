@@ -1,3 +1,3 @@
 # Simple room chat app
 
-Using Gorilla websocket 
+A simple chat app with basic features such as chat rooms and real-time messaging.
